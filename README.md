@@ -23,6 +23,11 @@ composer install
 composer test
 ```
 
+## Dependencias
+- [PHPUnit](https://phpunit.de/)
+- [PHPStan](https://phpstan.org/)
+- [Easy Coding Standard (ECS)](https://github.com/easy-coding-standard/easy-coding-standard)
+
 ## Changelog
 
 Favor de ver el archivo [CHANGELOG](CHANGELOG.md) para mayor información de los cambios recientes.
