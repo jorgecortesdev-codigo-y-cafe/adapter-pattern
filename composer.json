@@ -1,8 +1,10 @@
 {
-    "name": "jorgecortesdev/cc-adapter-pattern",
+    "name": "jorgecortesdev-codigo-y-cafe/adapter-pattern",
     "description": "Este repositorio contiene el código de ejemplo utilizado en el video del patrón adaptador de mi canal de youtube.",
     "license": "MIT",
-    "keywords": ["php"],
+    "keywords": [
+        "php"
+    ],
     "require": {
         "php": "^8.2"
     },
